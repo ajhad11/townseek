@@ -1,0 +1,3 @@
+String getBrowserUserAgent() {
+  return 'Unknown';
+}
